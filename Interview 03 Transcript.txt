@@ -1,0 +1,262 @@
+Interview Transcript
+Participant 3
+ 
+Interviewer: Okay, so I'm going to start just with having you give a brief background, introduction to yourself, and with some demographic, you know, information, maybe a brief summary of your education and employment history. And yeah, so I'll open it up to you for that.
+ 
+Participant 3: Okay sure, I'm—should I state my name? I mean you know my name. Okay um so I'm half Japanese. I’m Japanese American. I was born in Japan, and I lived there until the age of seven. There I went to a Japanese school, only spoke Japanese. Um, at seven years old, I moved to the United States to South Carolina, where my father's family um currently resides, and, um you know, entered the public school, the public education system in South Carolina. I stayed there through college, um attending the College of Charleston with a BS in Chemistry. Took one year off between college and graduate school, working as a chemist at a company in the uh area of Charleston South Carolina, moved to California specifically Davis California for graduate school at UC Davis, and I spent four years there obtaining my Ph.D. in Chemistry from that institution. I went to work as a postdoctoral researcher in UCSF for one and a half years, living in San Francisco. And in 2018, March of 2018, I moved to Boston and began my uh career, my first industry job, at a biotech company in Cambridge, Massachusetts. And I've been at the same company since then.
+ 
+Interviewer: Cool biotech company. So, can you tell me a little bit more about this company and sort of what, you know, what biotech is and what your occupation or role is within the company?
+ 
+Participant 3: Yeah sure. So a biotechnology company for us essentially means a company that marries some sort of technology, some sort of chemical technology or experimental capability, which is part of our platform, as they call it. Um with, for us, computational tools, so in silicon modeling of um disease-causing proteins in our body. We specifically are focused um as we're like a precision medicine company focused on oncology as well as rare genetic diseases. And the company is, I believe, at this point about six years old. We are a public company, and we have two different compounds in the clinic currently. Um. So both towards cancer therapies.
+ 
+Oh, and I guess my, my role here, my specific role, um my current title, is “senior scientist one.” I am in the computational group, so I do the modeling of these disease-causing proteins in our body. I design molecules that may help correct the function of these disease-causing proteins. Um and I currently am both like an individual contributor on a team, as well as a project leader of whatever our oncology targets.
+ 
+Interviewer: Cool, that sounds really awesome. In terms of, well, so back to the company for a second um, can you tell me about how many people work there, and how many people are like within your typical day-to-day office situation?
+ 
+Participant 3: Yeah so I believe the company is just over 300 at this point, 300 people, and on a day-to-day basis we have roughly 100 to 130 people on site. I don't know if you were curious about like the people I specifically interact with on a day-to-day basis?
+
+Interviewer: Yea, sure. 
+
+Participant 3: Um, I...that’s probably anywhere from 5 to 20 people, depending on the day.
+ 
+Interviewer: And in what capacity are you interacting with these people?
+ 
+Participant 3: Mm, they're either one-on-one conversations, or meetings, or group meetings. And this, this is cross-functional so folks who are not just in my particular group, but, you know, people across the company, different departments, different levels of experience.
+ 
+Interviewer: Are any of these people like your direct supervisor, or are you managing any of them?
+ 
+Participant 3: Yes, I do have a direct report as of February of this year, so pretty recently. And depending on the meeting, my managers are also sometimes yeah in my meetings.
+ 
+Interviewer: And you've been here, you said since 2018?
+ 
+Participant 3: March of 2018 yeah so just over four years now.
+ 
+Interviewer: Got it. So how do you like your job? If you added like rank it on a satisfaction scale from 1 to 10, 10 being the best and 1 being the worst, how would you rank it or rate it?
+ 
+Participant 3: (Pause) Eight right now.
+ 
+Interviewer: That’s pretty high—that's good. Can you elaborate?
+ 
+Participant 3: Yeah sure. Um, I think in terms of this job, it's my dream job. It's exactly what I wanted to do. Um when I left graduate school, I knew I wanted to do drug discovery. And the many, this company is kind of at the forefront of what you can do with computation uh which is my field, so I feel very valued at this company. I feel like um like, like I’m able to make a significant and impactful contribution to the projects here, so in that sense, I love it. I do feel like I have been provided with growth opportunities since I've been here. The only reason I wouldn't give it a 10 is work-life balance um has gotten pretty, has been poor since the pandemic, continues to be poor and um. Sometimes I have a bit too much to juggle, too much on my plate. I did not mention this, but aside from my day job, I also founded and co-lead our Diversity, Equity, Belonging, and Inclusion initiatives at the company, so that is another set of responsibilities that you know, sometimes can conflict with my day job.
+ 
+Interviewer: Sure, yeah, so what led to you founding that and being in charge?
+ 
+Participant 3: Yeah um honestly, it was just noticing um we were in an interview panel for a woman we were bringing in for a position. Her interview panel was all male, and I was concerned about that. And so I just raised that as a flag to the hiring manager, who was very responsive, and through a series of conversations that eventually led, went all the way up to the head of HR, who reached out to me. And I was scared, but he was thankful. He was thankful that you know that was something that I had phrased and he even shared with me some work that he had done at his previous position, um looking at um women in the sciences and women in tech and doing some studies around that. I took that opportunity to get a group of people together from the company, who I knew had either similar, same, or similar concerns, or have noticed things. And I thought that it was just a good opportunity to get this group of people together, while I had the attention of, you know, the head of HR to talk about some of these things. And that eventually led to him asking me if I would be interested in leading, that led him to asking if I would be interested in leading the DEI efforts at [Company name].
+ 
+Interviewer: that's awesome yeah very cool and when did you say you started that?
+ 
+Participant 3: That was, we officially launched in January of 2020. These conversations were happening at the end of 2019.
+ 
+Interviewer: So right before the pandemic, huh.
+
+Participant 3: Yea. 
+
+Interviewer: Interesting, um so what, speaking of DEI and whatnot, what would you say is the demographic makeup of the company in terms of gender, age, race um yea?
+ 
+Participant 3: So, in terms of gender, I believe we’re roughly, I mean we're close to 50:50. It might be 60:40 men to women. In terms of race, we are predominantly white, um, American… we are roughly 20% uh Asian or Asian American. And in terms of like Black or uh Latinx, less than a percent. In terms of age, I believe the largest, um, I think we're just over 50% millennials. And whatever generation came right before the millennials is the next largest… 
+
+Interviewer: Gen X?
+
+Participant 3: Okay so um so gen X, yes, so gen X will be like the next largest percentage. So so between millennials and gen X, it probably makes up 80 to 90% of the company.
+ 
+Interviewer: Got it. Is this pretty typical for the industry like, this sort of um you know, having even gender split, genders, or 60:40, um having a lot of white and Asian American workers, and having most the millennials? 
+
+Participant 3: Hmmm.
+
+Interviewer: You might not know the answer.
+ 
+Participant 3: Yea, to be honest, I'm not sure. I would, I mean I think in terms of the demographics it's probably pretty, um it's probably pretty standard across the industry. Um in terms of the age makeup, I'm not sure.
+ 
+Interviewer: yeah yeah, I mean, I think I was just curious why there would be such a low percentage, for example, of Black and Latinx workers. And that seems to be like more of an industry pipeline thing.
+ 
+Participant 3: It is. Absolutely. Yeah there's actually the National Science Foundation puts out a report every couple of years or so that shows the demographics of those getting degrees in STEM fields. And has like the demographic breakdown and also how far, you know, are they getting like a bachelor's degree, or are they getting some other advanced degree. And the percentage of Native American, Native Hawaiians, Black, and Latinx are always, you know, in the low single-digit percentages. So it's certainly a pipeline issue.
+ 
+Interviewer: Got it yeah that makes sense. So at your job, which you… yeah anyway, at your job, would you say, do you have a sense of the environment or like the culture sort of the atmosphere of the workplace in general, and I mean, would you call it like a laid back atmosphere, really friendly, casual, fast, competitive, you know?
+ 
+Participant 3: Definitely fast pace. But very friendly I think. you know humanity is one of our core values, and I do really see that people are very friendly, willing to help, willing to answer questions. There's never a dumb question. You know, really encourages curiosity. Definitely feels like, like a team atmosphere like we're all in this together. So, I would say it's not, it's not competitive, which I mean if it were that environment, I would not, (laughs) not like like that. I would not stay. Yeah.
+ 
+Interviewer: Yeah, cool. In terms of the people you work with, um do you see them outside of work and would you consider, like a lot of your coworkers your friends?
+ 
+Participant 3: Mhm, um yeah,  I think so. Well with the company being 300 people and a lot of my co-workers like obviously I don't think all three hundred are my friends. But, um yes, I definitely have really good relationships with people here, and I do see them outside of work.
+ 
+Interviewer: When you see your co-workers, do you feel like you can talk with them about pretty much anything like a friend, or do you feel like you have to keep it sort of professional business?
+ 
+Participant 3: Definitely depends on the person.
+ 
+Interviewer: Sure. Um do you feel like at work, in general, you can be yourself, or do you feel like sometimes you have to put on an act a certain way?
+ 
+Participant 3: I would say, I can feel like, I can feel like myself. As I have been taking on more leadership responsibilities, and I have been promoted quite quickly, and given leadership responsibilities, um you know, at a fairly early stage in my career, I do feel like I have to act like a certain way, to I guess live up to the expectations and the title that I do have. So I'm learning to navigate that, but more, you know, most of the time, I feel like I can be myself.
+ 
+Interviewer: Good. Um would you say that sort of living up to expectations is part of what the work-life balance issue comes from?
+ 
+Participant 3: Yea, that and just general workload. Just too much.
+ 
+Interviewer: Is that typical or do you feel like it's specific to your role?
+ 
+Participant 3: Um I think it's typical. It's typical right now across our company for sure.
+ 
+Interviewer: And is that just because there's too much work, not enough employees, or you just think that that's sort of just the culture?
+ 
+Participant 3: I think that it's probably the former. We’re trying to do too much and we don't have enough people to do it all.
+ 
+Interviewer: Sure, sure, sure um. Do you feel like, well, this is, you said that you, you know, the company seems somewhat diverse in terms of, at least in terms of gender and a little bit in terms of race and age, but would you say that any of those things matter at your job or at your workplace? 
+
+Participant 3: Does it matter that there's diversity? 
+
+Interviewer: Or would you say does race or age or gender matter?
+ 
+Participant 3: Ohh, I see. Yeah. Definitely. Uh as a younger woman scientist, again, being provided with these tremendous opportunities um, I definitely feel scrutinized. And I absolutely have had interactions with older male colleagues who did not seem to respect my…just my… intellectual knowledge of my field. And you know, kind of either micromanage or suggest things as if I had not already thought of them. So yeah, for sure, I think it definitely matters.
+ 
+Interviewer: When that happens, how does that make you feel, and what is your response, usually?
+ 
+Participant 3: Frustrated and annoyed is how I feel when that happens. Um, in those situations, I either just responded by, you know, saying, “Oh yeah, I'm on top of it, or I've already taken care of it, I've done that,” um counter back with, “Well, maybe this is a, you know, this is another way of thinking about it, this is another way of doing it.” You know suggested a different set of experiments that I personally think would be better. Um, maybe just reiterating my, my thoughts. Trying to make sure that I'm heard. Slightly different, but this is now bringing up, you know,  situations and groups in larger meetings where you're trying to speak up and say something, but no one's hearing you or people just talk right over you. You know, typically men, white men, who are just trying to dominate the conversation. I have had men give credit for something that I have done to other men. So I didn't know what to do, you know, when I first started. But I think now I'm at the point where I am fine just speaking up and saying, “Hey, I did that” or “that was my idea.” So those, I've definitely run into those situations.
+ 
+Interviewer: Um so it sounds like gender is maybe the big factor in a lot of these situations, but would you say that race ever impacts how you're viewed at work or how other people are viewed at work?
+ 
+Participant 3: Yeah um. Yeah, I mean, to be honest, I think, because I am white-passing, I don't, um, and people know that I'm half Japanese. But I, I think being like so assimilated into the American culture, it hasn't been a big issue for me. But I have seen my colleagues who, um, one is of Asian descent. She's Indian. Another one is actually Latino, and, and a man. They, they have been working here longer than me, have done a tremendous amount of work with this company and have delivered a tremendous amount, but have not been promoted. And so I’m, my, my title now is, has surpassed their title. So they've been here for five, six years I've been here for four. And I do know that one of the things that, um, that their manager commented on, that they have told me, these two individuals, is that they were soft-spoken. And because of that, they don't possess, like, leadership qualities, which is what they really need to demonstrate in order to to get that promotion.
+ 
+Interviewer: Do you feel like some of that is, you know, racial, racializing, in terms of like what soft-spoken means and what a leader looks like?
+ 
+Participant 3: Yeah, definitely.
+ 
+Interviewer: Interesting. Um, what about personally, have you ever experienced any sort of stereotyping or like racial comments or discrimination?
+ 
+Participant 3: Um I mean, in general, yes, not at…not at work. But in my life, yes.
+ 
+Interviewer: In your life, yes. Um, does that ever impact your work, you know, even though it's not happening at work?
+ 
+Participant 3: I'm definitely very aware of it. And I think, for me, the position that I'm in, I tend to, if I hear anything I, or observe anything, I tend to try to, you know, be a bystander that stands up for the person who might be experiencing a micro-aggression.
+ 
+Interviewer: Sure. Do you feel like that happens pretty often or is sort of rare?
+ 
+Participant 3: No, I think it's pretty, I think it's pretty rare. (Pause). Yeah yeah I think that's pretty rare.
+ 
+Interviewer: Can you give me any examples of specific times when that happens?
+ 
+Participant 3: That's what I'm trying to think of.
+ 
+Interviewer: Haha. 
+ 
+Participant 3: (Pause). Nothing specific's coming to my mind right now.
+ 
+Interviewer: What about a particular time when you felt emotional at work, and it could be any kind of emotion, including positive emotions?
+ 
+Participant 3: Mmm. Um okay, so two things come to mind. One is specifically about my Asian heritage and um all of the violence against the Asian, Asian American Community that has been happening for the last couple of years. Um I mean, of course, beyond that, there's always been a lot of racism against the Asian communities, but specifically last year. I was seeing a lot of you know videos of crime, hate crimes, violent crimes against Asians or Asian Americans that weren't being picked up by mainstream media. And as the leader of our, you know, DEI initiatives at the company, I did feel a responsibility, knowing that we have, you know, 20% of our employee population identify as Asian or Asian American, I felt a responsibility to do something and say something. But at the same time, felt like it didn't give me an opportunity to also process the information that I was seeing, and feeling a bit frustrated that I was the one who had to bring it up. So we have executive sponsors for DEI, so Head of HR and Head of business development, who I reached out to and said, “hey, I don't know that, if you have seen this, heard of it, know that it's going on. But this is happening, and I think we should say something and address it.” And I found it really frustrating that like that, that I had to be the one to do it, and…and I felt like I had to be strong, for everyone else. There’s, this is even more complicated, but there's a lot of identity,  lots of questions about my identity and where I fit in where I belong because I'm half and I've lived in two different cultures. And so I'm always, you know, I felt like, “Okay. I'm the DEI leader, I should be doing this.” I'm half white; I'm half American; I'm white-passing. The type of crime that is going on, I will never have to deal with myself personally, so I felt like I need to be an ally at this point. But at the same time, I've endured these racist remarks. And my mother lives in the States, she's Japanese, and so I worry about her. So there were a lot of emotions that I was going, I was experiencing but not really able to experience, fully experience or fully process during that time. And of course, I think I had brought this up before the shooting in Atlanta happened. Umm. But I think, by the time, by the time they did anything about it, you know the head of HR wrote a message, it was, after the shooting had happened. So that was also frustrating. 
+ 
+Interviewer: Yeah. Well, I'm very glad that you said something at least. Now I can totally imagine how frustrating that would be that management didn't on its own come, come to the conclusion that they shouldn't do or say something.
+ 
+Participant 3: Especially because this individual's married to an Asian woman.
+ 
+Interviewer: Of course (laughs).
+ 
+Participant 3: So it was a bit frustrating, um. But yeah. So, so that was, that was an emotional time in (pause) all of that was happening, of course, I was still having to work and get through my day job.
+ 
+Interviewer: And while this was happening, were you working in person or really mostly remote?
+ 
+Participant 3: Mostly remote at that point, yeah.
+ 
+Interviewer: And are you still remote, or you're mostly in person now?
+ 
+Participant 3: I would say more in person than remote now.
+ 
+Interviewer: Okay, but it's mixed a little bit.
+ 
+Participant 3: It is. Yeah. So, so it was, yeah, it was kind of a lot to juggle emotionally, and trying to be fully present for my work was difficult. I don't feel like they gave me…I don't feel like they gave me the time that I needed to process. Technically we have unlimited vacation; we have a kind of take-it-as-you-need policy. So could I have taken like a mental health day? Yes. But I didn't really feel like I could.
+ 
+Interviewer: Sure. You had all these responsibilities still on your plate.  
+
+Participant 3: Yeah. And no one was really checking in to say, “Hey, how are you dealing with this? Are you okay? Or can I take some stuff off your plate?” Like no one was saying that to me.
+ 
+Interviewer: In terms, you mean like your manager, or like coworkers or?
+ 
+Participant 3: Just no one.
+ 
+Interviewer: No one. Yeah.
+ 
+Participant 3: No one. So yeah. Positive emotions, we did get clinical data last fall for a molecule in the clinic that I worked on, that I helped, you know, bring to the clinic, and we had very, very positive data showing that this molecule efficacious; it was shrinking tumors and patients. In one patient, it shrunk the tumor so much they were able to go in and surgically remove it, so potentially curative. So that was an amazing feeling. I feel so fortunate to have that opportunity so early in my career, too. We had a big all-company meeting, you know, where they disclosed that data to us. It was very emotional. Many people crying happy tears and, and even our CEO was…getting emotional as well. So, I think it was great to see that because I think that it just set the precedent that it's, it's okay to be emotional at work and be vulnarable.
+ 
+Interviewer: You think that way is for only positive emotions, or do you think it would be the same thing if it was a negative crying?
+ 
+Participant 3: Yeah, that's a really good question. My gut, my gut says for positive emotion.
+ 
+Interviewer: Sure. Yeah, have you seen people cry at work, or have you ever cried at work, for, you know, for other reasons?
+ 
+Participant 3: Yeah um I actually have, just interpersonal conflict.
+ 
+Interviewer: With a colleague or?
+ 
+Participant 3: Colleague, yeah. And with the stress of a lot of other stuff, I think it all built up. But, yeah, interpersonal conflict with a colleague definitely made me emotional, and it wasn't like full-on crying but, you know, those holding back the tears. (pause). But I, yeah, I guess I definitely didn't feel like I wanted to show that vulnerability or that I wanted to show that I was strong. Which is, of course, the reason for holding back your tears. Um, yeah.
+ 
+Interviewer: Um, do you feel like anything happened as a consequence of that situation, or was it just something that happened that everyone gets on? 
+ 
+Participant 3: um yeah, I feel like it was just something that happened.
+ 
+Interviewer: Speaking of emotions and emotionality, do you consider yourself to be an emotional person just in general? And—
+ 
+Participant 3: No. 
+ 
+Interviewer: No? 
+
+Participant 3: No. 
+
+Interviewer: Are you more reserved or like private about your feelings? Do you feel like you have the feelings you just try really hard not to show them, or do you feel like you just don't really get that, that emotional, to begin with?
+ 
+Participant 3: I usually don't get that emotional to be, to begin with.
+ 
+Interviewer: Got it, um. What about some of your coworkers or your supervisor, your director,  and whatnot? Are they emotional at work ever? And is it like something that’s easy to read, or...?
+ 
+Participant 3: (Pause)  I've definitely never seen my manager emotional. And I haven't seen my direct report emotional, but he has, you know, been willing to share when he is, I mean I can… I can tell if something's bothering him, and he has shared like nervousness around being able to obtain a visa to stay to work in the US, things like that. He's originally from India, so he's, he's been willing to share his feelings with me, but I’ve never really seen him emotional. I know that I've seen people cry at work. Just don't know, I don't remember the exact context.
+ 
+Interviewer: Sure, yeah, I mean, If you had to… I know this would be probably very implicit, but would you say there are rules at work, you know, even just like cultural informal ones around being emotional, being angry, being stressed, being upset or sad—are those things that like people can just sort of freely express or do you feel like you're compelled not to?
+ 
+Participant 3: (Pause) I don't think that we're compelled not to. I think anger is one of the ones that would most likely not be tolerated. But the other emotions…I guess the only thing I would say is that if someone were emotional or expressive, they may be deemed to not have leadership qualities.
+ 
+Interviewer: Can you expand on that a little bit more?
+ 
+Participant 3: Um. I know that there's a woman who…she might be Director level… but I know for a fact that she’s shared with me that she's gotten feedback from like end-of-year reviews that specifically comments on her, kind of, speaking style, or being, or having a face that’s too expressive. That could… like she needs to hide those emotions and have a better poker face. So that yeah, so I think that's you know those were. Those were things that I guess. I think her manager felt like was impeding her from being more successful. So I think when it comes down to it, it's more, you know, be more like a man that's typically in these positions. That’s kind of generalizing men, but I think that's kind of the men in power, men who are successful, they carry themselves a specific way, and so we need to conform to that as women.
+ 
+Interviewer: Sure. Um has anything that we've talked about been especially different during the pandemic because of the, because of Covid, because of working remote, etc.?
+ 
+Participant 3: (Pause) I mean, I think the positives have been more flexibility in work where we can work, when we work, how we work. I think because of Covid, which obviously led to a ton of crime and hate and racism against Asian communities, it's brought up, brought more awareness to those in the company who may have never thought about it before. It also did bring some of us together um as a way, you know just, yeah… Unfortunately it was one way that a lot of us became connected to one another. Um…but yeah…like if this, yeah, I think that's all I have to say.
+ 
+Interviewer: Sure. Um well, those are most of my questions. Is there anything else about your workplace that we haven't discussed that you would want to talk about?
+ 
+Participant 3: I think one thing that is interesting is that although we have 20% of our employee base, you know, identifying as Asian or Asian American, there aren't many Asians in positions of leadership at this company. We do have one, um, in legal; she is in the C-suite, so we have one. And maybe a couple, you know, in director-level positions. But not any higher than that.
+ 
+Interviewer: Why do you think that is? Do you have a, do you speculate about that at all?
+ 
+Participant 3: Yeah I mean, I, yeah, I don't know if it's like a… I don't know if it's a specific, it’s a problem specific to this company. I think it's a problem, like in this industry or across industries as a whole. But the idea that maybe, you know, Asian people are seen as very dedicated and hard workers, um but more at an individual contributor level and not as a leader. I definitely think that there's, there's that feeling or stereotyping. That would lead to biases when people are, you know, considering someone for a promotion or considering someone during a job interview. Um. Yeah.
+ 
+Interviewer: Have you heard of the term “bamboo ceiling”?
+ 
+Participant 3: I have. I find… so my understanding is that an Asian person came up with this term.
+
+Interviewer: Yeah. 
+
+Participant 3:  I still find it weird. Like I'm actually…I was chatting with my CEO about this. Our CEO is Indian. And all his, his family… his, his ethnicity is Indian. He grew up in the UK. He's lived here in the US. He's now an American citizen, but we did chat about this. I have heard that term though.
+ 
+Interviewer: Yeah I know… it was a couple of years ago there was an article that came out, with that as the title or it was in the title. Yeah, a lot of people took it badly like. That, yeah, um but yeah…it's supposed to be a pun on, like the glass ceiling.
+ 
+Participant 3: Yeah right yeah. Yeah, I get it but, it just still like…it just still feels wrong.
+ 
+Interviewer: Sure. Sure yeah.
+ 
+Participant 3: But I mean, but yes, I mean, to that point. It, yeah, it definitely exists; it definitely seems to exist. Our CEO actually was in an AAPI panel recently with other, other…I think, with two other people who identify as Asian and are in, you know, very high positions of leadership at their respective companies. And it definitely seems like the host of this panel, the host company of this panel, has a real problem with that. They've a large Asian, Asian American population, employee population. But the majority of people in positions of leadership, senior leadership, are white, so.
+ 
+Interviewer: Do you get a sense of that something that, you know, is, is just externally imposed like Asian people just are not selected for the roles, or do you feel like there's some truth to the idea of Asian people just not being leadership material?
+ 
+Participant 3: I think… I think it's due to stereotypes. Yeahe.
+ 
+Interviewer: Yeah sure. yeah yeah.
+ 
+Participant 3: And biases coming in. I’d like to think that the company that I'm at will not let that impact how they view Asian people up for promotions or possible leadership positions.
+But yeah, I definitely think it's a reality.
+ 
+Interviewer: Sure, yeah. Well those are all my questions for you, so thank you so much…
+
+
+
+
+
+
+
