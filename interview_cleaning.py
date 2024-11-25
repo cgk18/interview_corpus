@@ -10,7 +10,7 @@ import pandas as pd
 
 
 
-test_doc = Document("/Users/grealish/Desktop/AS - Anon. Interview Transcripts/Interview 01 Transcript.docx")
+test_doc = Document("doc_files_raw/Interview 01 Transcript.docx")
 test_text = [para.text for para in test_doc.paragraphs if para.text.strip()]
 
 # Identify the speaker as an interviewer or a participant.
